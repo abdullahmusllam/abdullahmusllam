@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Musllam</h1>
-<h3 align="center">A passionate developer in MobilenDeveloper (Flutter)</h3>
+<h3 align="center">A passionate developer in Mobile Developer (Flutter)</h3>
 
 ---
 
